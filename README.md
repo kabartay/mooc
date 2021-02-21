@@ -3,19 +3,19 @@ My current online learning courses
 
 ## <img src="logos/logo-edx.png" width="38.835" height="18"/> MicroMasters program
 ### <img src="logos/logo_mitx_edx.png" width="51.82187" height="16"/> [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
-* [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-0) | Status: TBD | Level: Advanced  
-* [Data Analysis: Statistical Modeling and Computation in Applications](https://learning.edx.org/course/course-v1:MITx+6.419x+1T2021) | Status: <b>Ongoing</b> | Level: Advanced  
-* [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics-2) | Status: TBD | Level: Advanced  
-* [Machine Learning with Python-From Linear Models to Deep Learning [MITx: 6.86x]](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning) | Status: <b>Completed</b>| Level: Advanced  
-* [Capstone Exam in Statistics and Data Science](https://www.edx.org/course/capstone-exam-in-statistics-and-data-science-0) | Status: TBD | Level: Advanced
+* [Probability - The Science of Uncertainty and Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-0) | Status: TBD 
+* [Data Analysis: Statistical Modeling and Computation in Applications](https://learning.edx.org/course/course-v1:MITx+6.419x+1T2021) | Status: <b>Ongoing</b>  
+* [Fundamentals of Statistics](https://www.edx.org/course/fundamentals-of-statistics-2) | Status: TBD  
+* [Machine Learning with Python-From Linear Models to Deep Learning [MITx: 6.86x]](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning) | Status: <b>Completed</b>  
+* [Capstone Exam in Statistics and Data Science](https://www.edx.org/course/capstone-exam-in-statistics-and-data-science-0) | Status: TBD  
 
 ## <img src="logos/logo-edx.png" width="38.835" height="18"/> Professional Certificate Program
 ### <img src="logos/logo_ibm_edx_cutted.png" width="36" height="18"/> [Deep Learning](https://www.edx.org/professional-certificate/ibm-deep-learning) 
-* [Deep Learning Fundamentals with Keras](https://www.edx.org/course/deep-learning-fundamentals-with-keras) | Status: TBD | Level: Intermediate  
-* [Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch) | Status: TBD | Level: Intermediate  
-* [Deep Learning with Tensorflow](https://www.edx.org/course/deep-learning-with-tensorflow) | Status: TBD | Level: Intermediate  
-* [Using GPUs to Scale and Speed-up Deep Learning](https://www.edx.org/course/using-gpus-to-scale-and-speed-up-deep-learning) | Status: TBD | Level: Intermediate    
-* [Applied Deep Learning Capstone Project](https://www.edx.org/course/applied-deep-learning-capstone-project) | Status: TBD | Level: Intermediate  
+* [Deep Learning Fundamentals with Keras](https://www.edx.org/course/deep-learning-fundamentals-with-keras) | Status: TBD  
+* [Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch) | Status: TBD  
+* [Deep Learning with Tensorflow](https://www.edx.org/course/deep-learning-with-tensorflow) | Status: TBD  
+* [Using GPUs to Scale and Speed-up Deep Learning](https://www.edx.org/course/using-gpus-to-scale-and-speed-up-deep-learning) | Status: TBD      
+* [Applied Deep Learning Capstone Project](https://www.edx.org/course/applied-deep-learning-capstone-project) | Status: TBD   
 
 
 ## Top Universities & companies single courses
