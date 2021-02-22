@@ -1,5 +1,5 @@
 # MOOC
-My current online learning courses
+Online courses I am currently in.
 
 ## <img src="logos/logo-edx.png" width="38.835" height="18"/> MicroMasters program
 ### <img src="logos/logo_mitx_edx.png" width="51.82187" height="16"/> [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
